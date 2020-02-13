@@ -17,6 +17,14 @@
   min-height: 100%;
 }
 
+@media (max-width: 767px){
+  #myVideo{
+    width: auto;
+    height: auto;
+    right: 20%;
+  }
+}
+
 body {
   background: #fff;
   color: #666666;
